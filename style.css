@@ -1,0 +1,27 @@
+
+body{
+    background-color:cadetblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.mainheading{
+    text-align: center;
+    color: black;
+    background-color: aquamarine;
+    font-family: 'Courier New', Courier, monospace;
+}
+.subheading{
+    text-align: right;
+    color: black;
+    background-color: chartreuse;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.para1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.para2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.inline{
+    text-decoration-line: line-through;
+}
